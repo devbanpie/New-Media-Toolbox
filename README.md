@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# 新媒体工具箱
 
-You can use the [editor on GitHub](https://github.com/BPteach/New-Media-Toolbox/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+> 本文档记录新媒体内容写作、营销、短视频、运营等必备工具，文档开源，欢迎更新提交。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## 图标资源库
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*   [iconfont](http://www.iconfont.cn/)
+*   [TheNounProject](https://thenounproject.com/)
 
-```markdown
-Syntax highlighted code block
+## 图片资源库
 
-# Header 1
-## Header 2
-### Header 3
+*   [Unslpash](https://unsplash.com/)
+*   [Gratisography](http://www.gratisography.com/)
+*   [Pond5](https://www.pond5.com/)
+*   [Stock XCHNG](http://cn.freeimages.com/)
 
-- Bulleted
-- List
+## 视频素材库
 
-1. Numbered
-2. List
+*   [Mazwai](http://mazwai.com/#/videos)
+*   [Pexels](http://videos.pexels.com/)
+*   [Wedistill](http://wedistill.io/)
 
-**Bold** and _Italic_ and `Code` text
+## 设计灵感库
 
-[Link](url) and ![Image](src)
-```
+*   [Behance](https://www.behance.net/)
+*   [Dribbble](https://dribbble.com/)
+*   [Canva](https://www.canva.com/templates/presentations/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 配乐资源库
 
-### Jekyll Themes
+*   [Musicbed](https://www.musicbed.com/)
+*   [Marmoset](https://www.marmosetmusic.com/)
+*   [Song Freedom](http://www.songfreedom.com/home/library)
+*   [Filmstro](https://www.filmstro.com/)
+*   [Free Music Archive](http://freemusicarchive.org/)
+*   [Audiosocket](https://www.audiosocket.com/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BPteach/New-Media-Toolbox/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## 配色工具库
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*   [Kuler](https://color.adobe.com/create/color-wheel/)
+*   [ColourLover](http://www.colourlovers.com/)
+*   [配色表](http://tool.c7sky.com/webcolor/#character_7)
+*   [千图配色](http://www.58pic.com/peise/)
