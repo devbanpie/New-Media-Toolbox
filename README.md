@@ -35,6 +35,7 @@
 *   [Filmstro](https://www.filmstro.com/)
 *   [Free Music Archive](http://freemusicarchive.org/)
 *   [Audiosocket](https://www.audiosocket.com/)
+*   [Youtube Audio Lirary](https://www.youtube.com/audiolibrary/music)
 
 
 ## 配色工具库
